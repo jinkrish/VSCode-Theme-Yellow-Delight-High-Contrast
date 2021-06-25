@@ -2,8 +2,12 @@
     "name": "yellow-delight-high-contrast",
     "displayName": "Yellow Delight High Contrast",
     "description": "Another high contrast theme based on Yellow color for improved contrast and visibility",
-    "version": "0.0.3",
+    "version": "0.1.1",
     "publisher": "JinoRKrishnan",
+    "icon": "https://raw.githubusercontent.com/jinkrish/VSCode-Theme-Yellow-Delight-High-Contrast/main/assets/YellowDelighHighContrastLogo.jpg",
+    "author": {
+        "name": "Jino R Krishnan"
+    },
     "engines": {
         "vscode": "^1.57.0"
     },
