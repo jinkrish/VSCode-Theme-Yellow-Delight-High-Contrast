@@ -21,5 +21,8 @@
     },
     "dependencies": {
         "vsce": "^1.95.0"
+    },
+    "repository": {
+        "url": "https://github.com/jinkrish/VSCode-Theme-Yellow-Delight-High-Contrast"
     }
 }
