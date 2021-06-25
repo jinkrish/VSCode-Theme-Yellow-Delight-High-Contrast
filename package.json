@@ -1,0 +1,25 @@
+{
+    "name": "yellow-delight-high-contrast",
+    "displayName": "Yellow Delight High Contrast",
+    "description": "Another high contrast theme based on Yellow color for improved contrast and visibility",
+    "version": "0.0.1",
+    "publisher": "JinoRKrishnan",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Yellow Delight Theme - Hight Contrast",
+                "uiTheme": "hc-black",
+                "path": "./themes/Yellow Delight Theme - Hight Contrast-color-theme.json"
+            }
+        ]
+    },
+    "dependencies": {
+        "vsce": "^1.95.0"
+    }
+}
