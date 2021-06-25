@@ -2,7 +2,7 @@
     "name": "yellow-delight-high-contrast",
     "displayName": "Yellow Delight High Contrast",
     "description": "Another high contrast theme based on Yellow color for improved contrast and visibility",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "JinoRKrishnan",
     "engines": {
         "vscode": "^1.57.0"
