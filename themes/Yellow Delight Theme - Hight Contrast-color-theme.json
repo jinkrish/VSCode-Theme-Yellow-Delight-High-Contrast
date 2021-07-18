@@ -4,7 +4,7 @@
   "colors": {
     "foreground": "#616161",
     "focusBorder": "#0090f1",
-    "selection.background": "#e0dd00",
+    "selection.background": "#ff00005e",
     "scrollbar.shadow": "#dddddd",
     "activityBar.foreground": "#000000",
     "activityBar.background": "#fffc19",
@@ -209,7 +209,7 @@
     "editorSuggestWidget.border": "#e4e41e",
     "editorSuggestWidget.foreground": "#000000",
     "editorSuggestWidget.highlightForeground": "#0066bf",
-    "editorSuggestWidget.selectedBackground": "#fbfb00",
+    "editorSuggestWidget.selectedBackground": "#ff00005e",
     "editorHoverWidget.foreground": "#000000",
     "editorHoverWidget.background": "#eaea17",
     "editorHoverWidget.border": "#cfcf0d",
